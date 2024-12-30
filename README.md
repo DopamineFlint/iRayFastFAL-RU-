@@ -190,6 +190,8 @@
     9. Интерфейс USB C
     10. Пикатинни
 
+![alt text](https://github.com/DopamineFlint/iRayFastFAL-RU-/blob/main/images/comp.jpg)
+
 **ТАБЛИЦА ТАБЛИЦА ТАБЛИЦА ТАБЛИЦА**
 
 **IV. Зарядка батареи**
